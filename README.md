@@ -1,4 +1,4 @@
-# MicroGPT with TurboQuant
+# NanoGPT with TurboQuant
 
 [nanoGPT](https://github.com/karpathy/nanoGPT) + [TurboQuant](https://arxiv.org/abs/2504.19874) KV cache compression for faster inference.
 
